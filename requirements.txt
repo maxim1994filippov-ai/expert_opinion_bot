@@ -1,0 +1,4 @@
+playwright>=1.30.0
+python-telegram-bot>=20.0
+openai>=0.27.0
+beautifulsoup4
